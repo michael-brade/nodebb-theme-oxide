@@ -1,6 +1,6 @@
 {
 	"name": "nodebb-theme-oxide",
-	"version": "6.0.5",
+	"version": "6.0.6",
 	"description": "A theme that is based on the GitHub design.",
 	"keywords": [
 		"nodebb",
@@ -10,13 +10,13 @@
 		"responsive",
 		"oxide"
 	],
-	"homepage": "https://github.com/youhosi/nodebb-theme-oxide",
+	"homepage": "https://github.com/michael-brade/nodebb-theme-oxide",
 	"bugs": {
-		"url": "https://github.com/youhosi/nodebb-theme-oxide/issues"
+		"url": "https://github.com/michael-brade/nodebb-theme-oxide/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://youhosi/nodebb-theme-oxide.git"
+		"url": "git://michael-brade/nodebb-theme-oxide.git"
 	},
 	"license": "MIT",
 	"contributors": [
