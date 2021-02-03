@@ -280,7 +280,26 @@
 				ul,
 				ol {
 					margin-bottom: 10px !important;
+
+					li {
+						margin-top: 4px;
+
+						&:first-child {
+							margin-top: 0;
+						}
+					}
+				}
+
+				ul {
 					list-style-type: disc;
+
+					ul {
+						list-style-type: '- ';
+					}
+				}
+
+				ol {
+					list-style-type: decimal;
 				}
 
 				a:not(.plugin-mentions-user) {
